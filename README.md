@@ -1,7 +1,7 @@
-# Movie Recommender System Using Python & Machine Learning
+# CineMatch: A Movie Recommendation System Using Python & Machine Learning
 
 ## Overview
-This project is a simple **Movie Recommendation System** built using **Python** and **Machine Learning**. It suggests movies based on what the user likes, using a method called **content-based filtering**.
+This project is a simple **CineMatch System** built using **Python** and **Machine Learning**. It suggests movies based on what the user likes, using a method called **content-based filtering**.
 
 ---
 
